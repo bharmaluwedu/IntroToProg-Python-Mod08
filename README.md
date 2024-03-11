@@ -1,0 +1,1 @@
+This week is about demonstrating how to create the multi-module applications and test them systematically. The application is designed to get employee data from the user and store the information in the database (json file). The following report is the breakdown on how I wrote and tested this program step-by-step. The program is created in PyCharm 2022.2.1 with Python 3.12.2.
